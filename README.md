@@ -1,1 +1,1 @@
-https://vadimkanevidimka.github.io/rsschool-cv/cv
+https://github.com/vadimkanevidimka/rsschool-cv/blob/main/cv.md
